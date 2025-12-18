@@ -52,7 +52,8 @@ AWS EKS 기반 다중 가용영역(ap-northeast-2a, ap-northeast-2b) 클러스�
 - **Blockchain**: Hyperledger Fabric 네트워크 (EKS 내 Pod로 운영)
 - **Storage**: S3 (증빙 이미지), Firebase (인증서/개인키)
 
-<br>
+<img width="764" height="695" alt="image" src="https://github.com/user-attachments/assets/a72d732a-3a78-4ccb-a87a-5bb8119065b8" />
+
 
 ### 체인코드 주요 로직
 
